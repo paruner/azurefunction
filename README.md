@@ -1,1 +1,2 @@
 # azurefunction
+# set automatic onwership
